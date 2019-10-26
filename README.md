@@ -2,7 +2,7 @@
 
 creating a SPA by using combinators, positioning, modal windows, and slideshow     
 
-Try it! ----> https://oxanak.github.io/SelectCatsMarket/catStars.html
+Try it! ----> https://oxanak.github.io/Vegetable%20Market/VegetableMarket.html
 
 ## Technology:
 HTML, CSS
