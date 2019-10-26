@@ -9,7 +9,8 @@ HTML, CSS
 
 ## Images: 
 
-![alt text](https://github.com/OxanaK/SelectCatsMarket/blob/master/example_photos/cat1.jpg)
+![alt text](https://github.com/OxanaK/VegetableMarket/blob/master/example_photos/veget1.jpg)
 
-![alt text](https://github.com/OxanaK/SelectCatsMarket/blob/master/example_photos/cat2.jpg)
+![alt text](https://github.com/OxanaK/VegetableMarket/blob/master/example_photos/veget2.jpg)
 
+![alt text](https://github.com/OxanaK/VegetableMarket/blob/master/example_photos/veget3.jpg)
